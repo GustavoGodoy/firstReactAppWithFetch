@@ -1,3 +1,8 @@
+# Things you will need 
+
+- API Key from this web site https://rapidapi.com/boggio-analytics/api/football-prediction/
+- Node.js backend playing in localhost:8080 with a /api/test route.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
