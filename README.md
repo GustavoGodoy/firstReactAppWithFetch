@@ -1,5 +1,5 @@
 # Things you will need 
-
+- Npm install to install node_modules
 - API Key from this web site https://rapidapi.com/boggio-analytics/api/football-prediction/
 - Node.js backend playing in localhost:8080 with a /api/test route.
 
